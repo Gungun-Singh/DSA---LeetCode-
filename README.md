@@ -2,7 +2,7 @@
 
 This repository contains my solutions to problems from LeetCode
 , synced automatically using LeetHub-3.0.
-The solutions are organized by difficulty and problem name.
+The solutions are organized by problem name.
 
 🚀 Languages Used
 
