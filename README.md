@@ -15,3 +15,11 @@ SQL 💾
 Consistently practice Data Structures & Algorithms
 
 Improve problem-solving skills for placements and competitive programming
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2129-capitalize-the-title](https://github.com/Gungun-Singh/DSA/tree/main/2129-capitalize-the-title/) | Easy |
+<!---LeetCode Topics End-->
