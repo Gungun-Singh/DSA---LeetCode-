@@ -30,6 +30,7 @@ Improve problem-solving skills for placements and competitive programming
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Gungun-Singh/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Gungun-Singh/DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Gungun-Singh/DSA/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -51,12 +52,18 @@ Improve problem-solving skills for placements and competitive programming
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Gungun-Singh/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Gungun-Singh/DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Gungun-Singh/DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Gungun-Singh/DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 <!---LeetCode Topics End-->
