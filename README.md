@@ -26,6 +26,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Gungun-Singh/DSA/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2129-capitalize-the-title](https://github.com/Gungun-Singh/DSA/tree/main/2129-capitalize-the-title/) | Easy |
+| [3340-check-balanced-string](https://github.com/Gungun-Singh/DSA/tree/main/3340-check-balanced-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
