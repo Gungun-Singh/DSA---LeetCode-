@@ -95,5 +95,6 @@ Improve problem-solving skills for placements and competitive programming
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0263-ugly-number](https://github.com/Gungun-Singh/DSA/tree/main/0263-ugly-number/) | Easy |
 | [3099-harshad-number](https://github.com/Gungun-Singh/DSA/tree/main/3099-harshad-number/) | Easy |
 <!---LeetCode Topics End-->
