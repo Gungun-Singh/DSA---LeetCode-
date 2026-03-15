@@ -25,6 +25,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0151-reverse-words-in-a-string](https://github.com/Gungun-Singh/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Gungun-Singh/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0926-flip-string-to-monotone-increasing](https://github.com/Gungun-Singh/DSA/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Gungun-Singh/DSA/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2129-capitalize-the-title](https://github.com/Gungun-Singh/DSA/tree/main/2129-capitalize-the-title/) | Easy |
 | [3340-check-balanced-string](https://github.com/Gungun-Singh/DSA/tree/main/3340-check-balanced-string/) | Easy |
@@ -103,4 +104,8 @@ Improve problem-solving skills for placements and competitive programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Gungun-Singh/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0926-flip-string-to-monotone-increasing](https://github.com/Gungun-Singh/DSA/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 <!---LeetCode Topics End-->
