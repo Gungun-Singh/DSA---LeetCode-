@@ -108,4 +108,8 @@ Improve problem-solving skills for placements and competitive programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Gungun-Singh/DSA/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/Gungun-Singh/DSA/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
