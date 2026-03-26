@@ -42,6 +42,7 @@ Improve problem-solving skills for placements and competitive programming
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Gungun-Singh/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Gungun-Singh/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/Gungun-Singh/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Gungun-Singh/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Heap (Priority Queue)
@@ -68,6 +69,7 @@ Improve problem-solving skills for placements and competitive programming
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Gungun-Singh/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Gungun-Singh/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/Gungun-Singh/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Gungun-Singh/DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Trie
@@ -99,6 +101,7 @@ Improve problem-solving skills for placements and competitive programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0263-ugly-number](https://github.com/Gungun-Singh/DSA/tree/main/0263-ugly-number/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Gungun-Singh/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [3099-harshad-number](https://github.com/Gungun-Singh/DSA/tree/main/3099-harshad-number/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -117,4 +120,12 @@ Improve problem-solving skills for placements and competitive programming
 | [0620-not-boring-movies](https://github.com/Gungun-Singh/DSA/tree/main/0620-not-boring-movies/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Gungun-Singh/DSA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Gungun-Singh/DSA/tree/main/1667-fix-names-in-a-table/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Gungun-Singh/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Gungun-Singh/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
