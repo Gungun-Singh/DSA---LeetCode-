@@ -121,6 +121,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0180-consecutive-numbers](https://github.com/Gungun-Singh/DSA/tree/main/0180-consecutive-numbers/) | Medium |
 | [0184-department-highest-salary](https://github.com/Gungun-Singh/DSA/tree/main/0184-department-highest-salary/) | Medium |
 | [0620-not-boring-movies](https://github.com/Gungun-Singh/DSA/tree/main/0620-not-boring-movies/) | Easy |
+| [1251-average-selling-price](https://github.com/Gungun-Singh/DSA/tree/main/1251-average-selling-price/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Gungun-Singh/DSA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Gungun-Singh/DSA/tree/main/1667-fix-names-in-a-table/) | Easy |
 ## Design
