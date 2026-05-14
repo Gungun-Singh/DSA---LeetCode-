@@ -37,6 +37,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Gungun-Singh/DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/Gungun-Singh/DSA/tree/main/1859-sorting-the-sentence/) | Easy |
+| [2784-check-if-array-is-good](https://github.com/Gungun-Singh/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0380-insert-delete-getrandom-o1](https://github.com/Gungun-Singh/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Gungun-Singh/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/Gungun-Singh/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +76,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Gungun-Singh/DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Gungun-Singh/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/Gungun-Singh/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
