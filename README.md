@@ -130,6 +130,7 @@ Improve problem-solving skills for placements and competitive programming
 | [1251-average-selling-price](https://github.com/Gungun-Singh/DSA/tree/main/1251-average-selling-price/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Gungun-Singh/DSA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Gungun-Singh/DSA/tree/main/1667-fix-names-in-a-table/) | Easy |
+| [1729-find-followers-count](https://github.com/Gungun-Singh/DSA/tree/main/1729-find-followers-count/) | Easy |
 | [3570-find-books-with-no-available-copies](https://github.com/Gungun-Singh/DSA/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 ## Design
 | Problem Name | Difficulty |
