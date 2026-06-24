@@ -129,6 +129,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0620-not-boring-movies](https://github.com/Gungun-Singh/DSA/tree/main/0620-not-boring-movies/) | Easy |
 | [1251-average-selling-price](https://github.com/Gungun-Singh/DSA/tree/main/1251-average-selling-price/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Gungun-Singh/DSA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1407-top-travellers](https://github.com/Gungun-Singh/DSA/tree/main/1407-top-travellers/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Gungun-Singh/DSA/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1729-find-followers-count](https://github.com/Gungun-Singh/DSA/tree/main/1729-find-followers-count/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Gungun-Singh/DSA/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
