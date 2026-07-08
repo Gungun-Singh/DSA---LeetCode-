@@ -1,7 +1,7 @@
 # Write your MySQL query statement below
--- CREATE TABLE SecondHighestSalary
-SELECT ( SELECT DISTINCT salary
-  FROM Employee
-  ORDER BY salary DESC
-  LIMIT 1 OFFSET 1
-)  AS SecondHighestSalary ;
+-- CREATE TABLE( SecondHighestSalary
+select coalesce((select distinct salary
+from Employee
+order by salary desc
+limit 1 offset 1),null)
+as SecondHighestSalary
