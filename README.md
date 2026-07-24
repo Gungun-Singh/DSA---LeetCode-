@@ -126,6 +126,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0182-duplicate-emails](https://github.com/Gungun-Singh/DSA/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Gungun-Singh/DSA/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Gungun-Singh/DSA/tree/main/0184-department-highest-salary/) | Medium |
+| [0197-rising-temperature](https://github.com/Gungun-Singh/DSA/tree/main/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/Gungun-Singh/DSA/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Gungun-Singh/DSA/tree/main/0584-find-customer-referee/) | Easy |
 | [0607-sales-person](https://github.com/Gungun-Singh/DSA/tree/main/0607-sales-person/) | Easy |
