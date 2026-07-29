@@ -138,6 +138,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0607-sales-person](https://github.com/Gungun-Singh/DSA/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/Gungun-Singh/DSA/tree/main/0610-triangle-judgement/) | Easy |
 | [0620-not-boring-movies](https://github.com/Gungun-Singh/DSA/tree/main/0620-not-boring-movies/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/Gungun-Singh/DSA/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1251-average-selling-price](https://github.com/Gungun-Singh/DSA/tree/main/1251-average-selling-price/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Gungun-Singh/DSA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1407-top-travellers](https://github.com/Gungun-Singh/DSA/tree/main/1407-top-travellers/) | Easy |
