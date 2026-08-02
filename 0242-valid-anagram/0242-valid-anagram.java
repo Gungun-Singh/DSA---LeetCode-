@@ -5,16 +5,28 @@ if(s.length() != t.length()){
     return false;
 }
 
-       char[] ch1= s.toCharArray(); 
-       char[] ch2 = t.toCharArray();
+    HashMap<Character, Integer> map = new HashMap<>();
 
-       Arrays.sort(ch1);
-       Arrays.sort(ch2);
+    for(char ch: s.toCharArray()){
+        map.put(ch, map.getOrDefault(ch, 0)+1);
+    }
 
- 
+    //dec count
+    for(char ch: t.toCharArray()){
+        if(!map.containsKey(ch)){
+            return false;
+        }
 
-       return Arrays.equals(ch1 , ch2);
+        map.put(ch, map.get(ch)-1);
 
-
+        if(map.get(ch)<0){
+            return false;
+        }
+    }
+        return true;
     }
 }
+
+
+
+
