@@ -25,6 +25,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0151-reverse-words-in-a-string](https://github.com/Gungun-Singh/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Gungun-Singh/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Gungun-Singh/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/Gungun-Singh/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/Gungun-Singh/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Gungun-Singh/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -53,6 +54,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0205-isomorphic-strings](https://github.com/Gungun-Singh/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Gungun-Singh/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Gungun-Singh/DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/Gungun-Singh/DSA/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Gungun-Singh/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Gungun-Singh/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/Gungun-Singh/DSA/tree/main/0383-ransom-note/) | Easy |
