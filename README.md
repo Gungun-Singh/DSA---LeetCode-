@@ -23,6 +23,7 @@ Improve problem-solving skills for placements and competitive programming
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gungun-Singh/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Gungun-Singh/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Gungun-Singh/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Gungun-Singh/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/Gungun-Singh/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Gungun-Singh/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -49,6 +50,7 @@ Improve problem-solving skills for placements and competitive programming
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Gungun-Singh/DSA/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Gungun-Singh/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Gungun-Singh/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Gungun-Singh/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Gungun-Singh/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Gungun-Singh/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
