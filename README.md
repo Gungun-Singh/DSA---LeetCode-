@@ -31,6 +31,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0451-sort-characters-by-frequency](https://github.com/Gungun-Singh/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0500-keyboard-row](https://github.com/Gungun-Singh/DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0771-jewels-and-stones](https://github.com/Gungun-Singh/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Gungun-Singh/DSA/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Gungun-Singh/DSA/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [1002-find-common-characters](https://github.com/Gungun-Singh/DSA/tree/main/1002-find-common-characters/) | Easy |
@@ -72,6 +73,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0500-keyboard-row](https://github.com/Gungun-Singh/DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Gungun-Singh/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0771-jewels-and-stones](https://github.com/Gungun-Singh/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Gungun-Singh/DSA/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1002-find-common-characters](https://github.com/Gungun-Singh/DSA/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Gungun-Singh/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
