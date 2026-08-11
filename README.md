@@ -27,6 +27,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0205-isomorphic-strings](https://github.com/Gungun-Singh/DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Gungun-Singh/DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/Gungun-Singh/DSA/tree/main/0290-word-pattern/) | Easy |
+| [0344-reverse-string](https://github.com/Gungun-Singh/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Gungun-Singh/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Gungun-Singh/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Gungun-Singh/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -148,6 +149,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gungun-Singh/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Gungun-Singh/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Gungun-Singh/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0344-reverse-string](https://github.com/Gungun-Singh/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Gungun-Singh/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
