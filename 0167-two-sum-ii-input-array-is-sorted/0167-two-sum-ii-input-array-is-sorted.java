@@ -1,41 +1,24 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
-        int n= numbers.length;
-        int left =0, right = n-1;
+        int i=0;
+        int j= numbers.length-1;
 
-        
+        int[] res = new int[2];
 
-        while(left< right){
-            if(numbers[left] + numbers[right] == target){
-                int arr[] = { left+1, right+1 };
-                return arr;
+         while(i<j){
+            if(numbers[i] + numbers[j] == target){
+                res[0] = i+1;
+                res[1] =j+1;
+
+                return res;
             }
-            else if(numbers[left] + numbers[right] > target){
-                    right--;
+            else if(numbers[i]+numbers[j] < target){
+                i++;
             }
             else{
-                left++;
+                j--;
             }
-
-        }
-
-        return null;
-
-
-
-
-
-
-        // //    O(N2) solution
-        // for (int i = 0; i < numbers.length; i++) {
-        //     for (int j = i + 1; j < numbers.length; j++) {
-        //         if (numbers[i] + numbers[j] == target) {
-        //             int arr[] = { i+1, j+1 };
-        //             return arr;
-        //         }
-
-        //     }
-        // }
-        // return null;
+         }
+         return res;
     }
 }
