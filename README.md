@@ -43,6 +43,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0347-top-k-frequent-elements](https://github.com/Gungun-Singh/DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Gungun-Singh/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Gungun-Singh/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/Gungun-Singh/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gungun-Singh/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Gungun-Singh/DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -66,6 +67,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0387-first-unique-character-in-a-string](https://github.com/Gungun-Singh/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Gungun-Singh/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0500-keyboard-row](https://github.com/Gungun-Singh/DSA/tree/main/0500-keyboard-row/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/Gungun-Singh/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Gungun-Singh/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Gungun-Singh/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -89,6 +91,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0383-ransom-note](https://github.com/Gungun-Singh/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Gungun-Singh/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Gungun-Singh/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0594-longest-harmonious-subsequence](https://github.com/Gungun-Singh/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Gungun-Singh/DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Array
@@ -103,6 +106,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0349-intersection-of-two-arrays](https://github.com/Gungun-Singh/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Gungun-Singh/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0500-keyboard-row](https://github.com/Gungun-Singh/DSA/tree/main/0500-keyboard-row/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/Gungun-Singh/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gungun-Singh/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Gungun-Singh/DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -232,4 +236,5 @@ Improve problem-solving skills for placements and competitive programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Gungun-Singh/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/Gungun-Singh/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 <!---LeetCode Topics End-->
