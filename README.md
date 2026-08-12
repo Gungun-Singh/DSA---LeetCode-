@@ -35,6 +35,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0500-keyboard-row](https://github.com/Gungun-Singh/DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Gungun-Singh/DSA/tree/main/0771-jewels-and-stones/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Gungun-Singh/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Gungun-Singh/DSA/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Gungun-Singh/DSA/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [1002-find-common-characters](https://github.com/Gungun-Singh/DSA/tree/main/1002-find-common-characters/) | Easy |
@@ -159,6 +160,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0344-reverse-string](https://github.com/Gungun-Singh/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Gungun-Singh/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/Gungun-Singh/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Gungun-Singh/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +236,7 @@ Improve problem-solving skills for placements and competitive programming
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Gungun-Singh/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Gungun-Singh/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -262,4 +265,8 @@ Improve problem-solving skills for placements and competitive programming
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Gungun-Singh/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Gungun-Singh/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Gungun-Singh/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
