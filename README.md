@@ -30,6 +30,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0344-reverse-string](https://github.com/Gungun-Singh/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Gungun-Singh/DSA/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Gungun-Singh/DSA/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/Gungun-Singh/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Gungun-Singh/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0500-keyboard-row](https://github.com/Gungun-Singh/DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -157,6 +158,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0283-move-zeroes](https://github.com/Gungun-Singh/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Gungun-Singh/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Gungun-Singh/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0392-is-subsequence](https://github.com/Gungun-Singh/DSA/tree/main/0392-is-subsequence/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -176,6 +178,7 @@ Improve problem-solving skills for placements and competitive programming
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0392-is-subsequence](https://github.com/Gungun-Singh/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Gungun-Singh/DSA/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 ## Database
 | Problem Name | Difficulty |
