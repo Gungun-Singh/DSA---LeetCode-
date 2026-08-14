@@ -214,6 +214,7 @@ Improve problem-solving skills for placements and competitive programming
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Gungun-Singh/DSA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Gungun-Singh/DSA/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/Gungun-Singh/DSA/tree/main/1407-top-travellers/) | Easy |
+| [1527-patients-with-a-condition](https://github.com/Gungun-Singh/DSA/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Gungun-Singh/DSA/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1729-find-followers-count](https://github.com/Gungun-Singh/DSA/tree/main/1729-find-followers-count/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Gungun-Singh/DSA/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
