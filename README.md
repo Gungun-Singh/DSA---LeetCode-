@@ -224,6 +224,7 @@ Improve problem-solving skills for placements and competitive programming
 | [1729-find-followers-count](https://github.com/Gungun-Singh/DSA/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Gungun-Singh/DSA/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Gungun-Singh/DSA/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/Gungun-Singh/DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [3570-find-books-with-no-available-copies](https://github.com/Gungun-Singh/DSA/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 ## Design
 | Problem Name | Difficulty |
