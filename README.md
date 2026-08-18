@@ -228,6 +228,7 @@ Improve problem-solving skills for placements and competitive programming
 | [1789-primary-department-for-each-employee](https://github.com/Gungun-Singh/DSA/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/Gungun-Singh/DSA/tree/main/1795-rearrange-products-table/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/Gungun-Singh/DSA/tree/main/1890-the-latest-login-in-2020/) | Easy |
+| [1965-employees-with-missing-information](https://github.com/Gungun-Singh/DSA/tree/main/1965-employees-with-missing-information/) | Easy |
 | [3570-find-books-with-no-available-copies](https://github.com/Gungun-Singh/DSA/tree/main/3570-find-books-with-no-available-copies/) | Easy |
 ## Design
 | Problem Name | Difficulty |
