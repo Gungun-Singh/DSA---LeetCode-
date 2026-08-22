@@ -175,6 +175,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0628-maximum-product-of-three-numbers](https://github.com/Gungun-Singh/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Gungun-Singh/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3099-harshad-number](https://github.com/Gungun-Singh/DSA/tree/main/3099-harshad-number/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Gungun-Singh/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
