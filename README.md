@@ -37,6 +37,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0771-jewels-and-stones](https://github.com/Gungun-Singh/DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Gungun-Singh/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Gungun-Singh/DSA/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0925-long-pressed-name](https://github.com/Gungun-Singh/DSA/tree/main/0925-long-pressed-name/) | Easy |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Gungun-Singh/DSA/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [1002-find-common-characters](https://github.com/Gungun-Singh/DSA/tree/main/1002-find-common-characters/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Gungun-Singh/DSA/tree/main/1859-sorting-the-sentence/) | Easy |
@@ -163,6 +164,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0392-is-subsequence](https://github.com/Gungun-Singh/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Gungun-Singh/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/Gungun-Singh/DSA/tree/main/0845-longest-mountain-in-array/) | Medium |
+| [0925-long-pressed-name](https://github.com/Gungun-Singh/DSA/tree/main/0925-long-pressed-name/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
