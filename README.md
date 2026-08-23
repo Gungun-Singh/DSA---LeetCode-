@@ -117,6 +117,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0001-two-sum](https://github.com/Gungun-Singh/DSA/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Gungun-Singh/DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gungun-Singh/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Gungun-Singh/DSA/tree/main/0027-remove-element/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Gungun-Singh/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Gungun-Singh/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gungun-Singh/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -160,6 +161,7 @@ Improve problem-solving skills for placements and competitive programming
 | ------- | ------- |
 | [0015-3sum](https://github.com/Gungun-Singh/DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gungun-Singh/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/Gungun-Singh/DSA/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gungun-Singh/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Gungun-Singh/DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Gungun-Singh/DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
