@@ -54,6 +54,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0349-intersection-of-two-arrays](https://github.com/Gungun-Singh/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Gungun-Singh/DSA/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Gungun-Singh/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0611-valid-triangle-number](https://github.com/Gungun-Singh/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gungun-Singh/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Gungun-Singh/DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -127,6 +128,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0380-insert-delete-getrandom-o1](https://github.com/Gungun-Singh/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0500-keyboard-row](https://github.com/Gungun-Singh/DSA/tree/main/0500-keyboard-row/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Gungun-Singh/DSA/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0611-valid-triangle-number](https://github.com/Gungun-Singh/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gungun-Singh/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Gungun-Singh/DSA/tree/main/0845-longest-mountain-in-array/) | Medium |
@@ -143,6 +145,7 @@ Improve problem-solving skills for placements and competitive programming
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0611-valid-triangle-number](https://github.com/Gungun-Singh/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Gungun-Singh/DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -165,6 +168,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0344-reverse-string](https://github.com/Gungun-Singh/DSA/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/Gungun-Singh/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/Gungun-Singh/DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0611-valid-triangle-number](https://github.com/Gungun-Singh/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Gungun-Singh/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/Gungun-Singh/DSA/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0925-long-pressed-name](https://github.com/Gungun-Singh/DSA/tree/main/0925-long-pressed-name/) | Easy |
@@ -271,6 +275,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0074-search-a-2d-matrix](https://github.com/Gungun-Singh/DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gungun-Singh/DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/Gungun-Singh/DSA/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0611-valid-triangle-number](https://github.com/Gungun-Singh/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
