@@ -1,49 +1,17 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        //clone arr
-        int[] arr = nums.clone();
-
-        //sort
-        Arrays.sort(arr);
-
-        //pointers
-        int left = 0;
-        int rht = arr.length-1;
-
-
-        //ref of ptr for orig array
-        int fir=0, sec = 0;
-
-        //sum
-        while(left<rht){
-            int sum = arr[left] + arr[rht];
-
-            if(sum== target){
-                fir = arr[left];
-                sec = arr[rht];
-
-                break;
-            }
-            else if(sum<target){
-                left++;
-            }else{
-                rht--;
-            }
-        }
-
-
-        //find ref in original nums
-        int index1 =-1, index2 = -1;
+        HashMap<Integer, Integer> map = new HashMap<>();
+        
 
         for(int i=0;i<nums.length;i++){
-            if(nums[i] == fir && index1 == -1){
-                index1 =i;
+            int needed =target- nums[i];
+            if(map.containsKey(needed)){
+                return new int[]{map.get(needed),i};
             }
-            else if(nums[i] == sec && index2 ==-1){
-                index2 =i;
-            }
+
+            map.put(nums[i], i);
         }
 
-        return new int[]{index1, index2};
+        return new int[] {-1,-1};
     }
 }
