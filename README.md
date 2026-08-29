@@ -116,6 +116,7 @@ Improve problem-solving skills for placements and competitive programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Gungun-Singh/DSA/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Gungun-Singh/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Gungun-Singh/DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gungun-Singh/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Gungun-Singh/DSA/tree/main/0027-remove-element/) | Easy |
@@ -147,6 +148,7 @@ Improve problem-solving skills for placements and competitive programming
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Gungun-Singh/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0611-valid-triangle-number](https://github.com/Gungun-Singh/DSA/tree/main/0611-valid-triangle-number/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Gungun-Singh/DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 ## Divide and Conquer
@@ -160,6 +162,7 @@ Improve problem-solving skills for placements and competitive programming
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Gungun-Singh/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Gungun-Singh/DSA/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gungun-Singh/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Gungun-Singh/DSA/tree/main/0027-remove-element/) | Easy |
