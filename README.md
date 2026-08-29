@@ -43,6 +43,7 @@ Improve problem-solving skills for placements and competitive programming
 | [1859-sorting-the-sentence](https://github.com/Gungun-Singh/DSA/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Gungun-Singh/DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2129-capitalize-the-title](https://github.com/Gungun-Singh/DSA/tree/main/2129-capitalize-the-title/) | Easy |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Gungun-Singh/DSA/tree/main/2337-move-pieces-to-obtain-a-string/) | Medium |
 | [3340-check-balanced-string](https://github.com/Gungun-Singh/DSA/tree/main/3340-check-balanced-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -174,6 +175,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0844-backspace-string-compare](https://github.com/Gungun-Singh/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/Gungun-Singh/DSA/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0925-long-pressed-name](https://github.com/Gungun-Singh/DSA/tree/main/0925-long-pressed-name/) | Easy |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Gungun-Singh/DSA/tree/main/2337-move-pieces-to-obtain-a-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
