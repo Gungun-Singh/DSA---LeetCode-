@@ -59,6 +59,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0628-maximum-product-of-three-numbers](https://github.com/Gungun-Singh/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Gungun-Singh/DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Gungun-Singh/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/Gungun-Singh/DSA/tree/main/1859-sorting-the-sentence/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/Gungun-Singh/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3731-find-missing-elements](https://github.com/Gungun-Singh/DSA/tree/main/3731-find-missing-elements/) | Easy |
@@ -136,6 +137,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0692-top-k-frequent-words](https://github.com/Gungun-Singh/DSA/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0845-longest-mountain-in-array](https://github.com/Gungun-Singh/DSA/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Gungun-Singh/DSA/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Gungun-Singh/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1002-find-common-characters](https://github.com/Gungun-Singh/DSA/tree/main/1002-find-common-characters/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Gungun-Singh/DSA/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Gungun-Singh/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -178,6 +180,7 @@ Improve problem-solving skills for placements and competitive programming
 | [0844-backspace-string-compare](https://github.com/Gungun-Singh/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/Gungun-Singh/DSA/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0925-long-pressed-name](https://github.com/Gungun-Singh/DSA/tree/main/0925-long-pressed-name/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Gungun-Singh/DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/Gungun-Singh/DSA/tree/main/2337-move-pieces-to-obtain-a-string/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
