@@ -143,6 +143,7 @@ Improve problem-solving skills for placements and competitive programming
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Gungun-Singh/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Gungun-Singh/DSA/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3731-find-missing-elements](https://github.com/Gungun-Singh/DSA/tree/main/3731-find-missing-elements/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Gungun-Singh/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +196,7 @@ Improve problem-solving skills for placements and competitive programming
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Gungun-Singh/DSA/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3099-harshad-number](https://github.com/Gungun-Singh/DSA/tree/main/3099-harshad-number/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Gungun-Singh/DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Gungun-Singh/DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
