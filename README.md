@@ -300,6 +300,7 @@ Improve problem-solving skills for placements and competitive programming
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gungun-Singh/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Gungun-Singh/DSA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -313,9 +314,18 @@ Improve problem-solving skills for placements and competitive programming
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gungun-Singh/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Gungun-Singh/DSA/tree/main/0844-backspace-string-compare/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Gungun-Singh/DSA/tree/main/0845-longest-mountain-in-array/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gungun-Singh/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gungun-Singh/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
