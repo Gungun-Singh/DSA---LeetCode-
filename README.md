@@ -302,6 +302,7 @@ Improve problem-solving skills for placements and competitive programming
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gungun-Singh/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Gungun-Singh/DSA/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Gungun-Singh/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gungun-Singh/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gungun-Singh/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Gungun-Singh/DSA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
@@ -330,6 +331,7 @@ Improve problem-solving skills for placements and competitive programming
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gungun-Singh/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Gungun-Singh/DSA/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Gungun-Singh/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gungun-Singh/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gungun-Singh/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
@@ -337,10 +339,12 @@ Improve problem-solving skills for placements and competitive programming
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Gungun-Singh/DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Gungun-Singh/DSA/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Gungun-Singh/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gungun-Singh/DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gungun-Singh/DSA/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Gungun-Singh/DSA/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Gungun-Singh/DSA/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
