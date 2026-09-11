@@ -20,17 +20,18 @@ class Solution {
         }
 
         return check(root.left, root.right);
+
     }
 
-    boolean check(TreeNode p, TreeNode r ){
-        if(p == null && r == null){
+    boolean check(TreeNode l, TreeNode r){
+        if(l == null && r ==null){
             return true;
         }
-        if(p== null || r == null){
+        if(l == null || r ==null){
             return false;
         }
 
-        if(p.val == r.val && check(p.left, r.right) && check(p.right, r.left)){
+        if (l.val == r.val && check(l.left , r.right) && check(l.right, r.left)){
             return true;
         }
         return false;
