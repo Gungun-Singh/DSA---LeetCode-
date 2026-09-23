@@ -190,6 +190,7 @@ Improve problem-solving skills for placements and competitive programming
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Gungun-Singh/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0263-ugly-number](https://github.com/Gungun-Singh/DSA/tree/main/0263-ugly-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Gungun-Singh/DSA/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Gungun-Singh/DSA/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -204,6 +205,7 @@ Improve problem-solving skills for placements and competitive programming
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Gungun-Singh/DSA/tree/main/0062-unique-paths/) | Medium |
 | [0392-is-subsequence](https://github.com/Gungun-Singh/DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0845-longest-mountain-in-array](https://github.com/Gungun-Singh/DSA/tree/main/0845-longest-mountain-in-array/) | Medium |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Gungun-Singh/DSA/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
@@ -351,4 +353,8 @@ Improve problem-solving skills for placements and competitive programming
 | [0100-same-tree](https://github.com/Gungun-Singh/DSA/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Gungun-Singh/DSA/tree/main/0101-symmetric-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Gungun-Singh/DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Gungun-Singh/DSA/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
